@@ -5,9 +5,9 @@
     </tr>
     <tr></tr>
     <tr>
-      <th colspan="2" align="left" width="250px">Backends</th>
-      <th colspan="2" align="left" width="250px">Activities</th>
-      <th colspan="2" align="left" width="250px">Frontends</th>
+      <th colspan="2" align="left" width="300px">Backends</th>
+      <th colspan="2" align="left" width="300px">Activities</th>
+      <th colspan="2" align="left" width="300px">Frontends</th>
     </tr>
     <tr>
       <td>
