@@ -1,7 +1,7 @@
 <table>
   <tbody>
     <tr>
-      <th colspan="6" align="left">Contents</th>
+      <th colspan="6" align="left">Stack</th>
     </tr>
     <tr></tr>
     <tr>
