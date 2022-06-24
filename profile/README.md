@@ -12,19 +12,19 @@
     <tr>
       <td>
           <div>
-              <code>Basic Service</code>
+              <code>BE0: Basic Service</code>
           </div>
           <div>
-              <code>IDM Service</code>
+              <code>BE1: IDM Service</code>
           </div>
           <div>
-              <code>Movies Service</code>
+              <code>BE2: Movies Service</code>
           </div>
           <div>
-              <code>Billing Service</code>
+              <code>BE3: Billing Service</code>
           </div>
           <div>
-              <code>Gateway Service</code>
+              <code>BE4: Gateway Service</code>
           </div>
       </td>
       <td>
@@ -56,16 +56,16 @@
       </td>
       <td>
           <div>
-              <code>Starter</code>
+              <code>Frontend Starter</code>
           </div>
           <div>
-              <code>Register</code>
+              <code>FE1: Register</code>
           </div>
           <div>
-              <code>Search</code>
+              <code>FE2: Search</code>
           </div>
           <div>
-              <code>Full</code>
+              <code>FE3: Full</code>
           </div>
       </td>
       <td>
@@ -92,22 +92,22 @@
       </td>
       <td>
           <div>
-              <code>Spring</code>
+              <code>A1: Spring</code>
           </div>
           <div>
-              <code>Security</code>
+              <code>A2: Security</code>
           </div>
           <div>
-              <code>Database</code>
+              <code>A3: Database</code>
           </div>
           <div>
-              <code>SQL</code>
+              <code>A4: SQL</code>
           </div>
           <div>
-              <code>Stripe</code>
+              <code>A5: Stripe</code>
           </div>
           <div>
-              <code>Reactor</code>
+              <code>A6: Reactor</code>
           </div>
       </td>
       <td>
